@@ -44,8 +44,8 @@ while msg == 0:
     mainHeaderPrint(keyword, name, pathname)
     msg = getMsg()
     if msg == 2:
-        kalp = str(input('Password to use detailed: '))
-        if kalp == 'kalp':
+        sall = str(input('Password to use detailed: '))
+        if sall == 'sall':
             print('verfied...')
             time.sleep(2)
         else:
