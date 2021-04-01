@@ -1,7 +1,7 @@
 # Canada Job bank Automation
 
 
-After reading how to [automate the boring stuff with Python](https://automatetheboringstuff.com/), and learning about webscraping with Selenium, I decided to automate resume submissions using emails scraped from [Canada Job Bank](https://www.jobbank.gc.ca/home). 
+After reading how to [automate the boring stuff with Python](https://automatetheboringstuff.com/), and learning about web scraping with Selenium, I decided to automate resume submissions using emails scrape from [Canada Job Bank](https://www.jobbank.gc.ca/home). 
 **I do not use this to submit resumes for obvious reasons**
 **Works as of 2021-02-05**
 
