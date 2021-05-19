@@ -20,7 +20,7 @@ If yes, then it scrapes:
 - Jobbank ID
 - And Salary. 
 
-This is then used to created an excel spreadsheet with details of all job postings scraped. 
+This is then used to create an excel spreadsheet with details of all job postings scraped. 
 Once the spreadsheet has been created, the app will start sending employers an email with your attached resume with a subject and short body paragraph. 
 
 
